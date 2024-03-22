@@ -622,7 +622,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 正是江南好风景，落花时节又逢君。
+    - Keep Coding!
 
 # Loading Animation (加載動畫)
 preloader: false
